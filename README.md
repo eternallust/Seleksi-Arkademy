@@ -7,4 +7,8 @@ soal 1:
  
 Soal 6 : screenshot
 
-![ss tambah data](http://url/to/img.png)
+![ss halaman utama](https://github.com/eternallust/Seleksi-Arkademy/blob/master/soal6/ssHalamanUtama.png)
+
+![ss edit](https://github.com/eternallust/Seleksi-Arkademy/blob/master/soal6/ssEdit.png)
+
+![ss tambah](https://github.com/eternallust/Seleksi-Arkademy/blob/master/soal6/ssTambah.png)
